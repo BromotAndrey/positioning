@@ -1,0 +1,165 @@
+body {
+    
+    width: 1500px;
+    height: 864px;
+    background: #B07CF7;
+}
+h1{
+    position: absolute;
+    width: 202px;
+    height: 106px;
+    left: 649px;
+    top: 92px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    line-height: 106px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+h5{
+    position: absolute;
+    width: 592px;
+    height: 75px;
+    left: 454px;
+    top: 228px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 25px;
+    
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.row{
+
+    width: 1170px;
+    height: 314px;
+    left: 165px;
+    top: 353px;
+
+}
+.card1{
+    position: absolute;
+    width: 370px;
+    height: 310px;
+    left: 165px;
+    top: 353px;
+    
+
+}
+.card2{
+    position: absolute;
+    width: 370px;
+    height: 310px;
+    left: 565px;
+    top: 353px;
+    
+}
+.card3{
+    position: absolute;
+    width: 370px;
+    height: 310px;
+    left: 965px;
+    top: 353px;
+    
+}
+.text1{
+    
+    width: 330px;
+    height: 46px;
+    left: 185px;
+    top: 400px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+.text2{
+    
+    width: 330px;
+    height: 46px;
+    left: 585px;
+    top: 562px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+.text3{
+    
+    width: 330px;
+    height: 46px;
+    left: 985px;
+    top: 562px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+.hour1{
+    
+width: 155px;
+height: 15px;
+left: 185px;
+top: 632px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 15px;
+
+color: #FFFFFF;
+
+}
+.hour2{
+    
+    width: 155px;
+    height: 15px;
+    left: 585px;
+    top: 628px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+    
+
+}
+.hour3{
+    
+    width: 156px;
+    height: 15px;
+    left: 985px;
+    top: 628px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+}
